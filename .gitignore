@@ -1,0 +1,24 @@
+# Pasta de dependências
+node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente (se você usar)
+.env
+.env.*
+!.env.example
+
+# Arquivos de dados de runtime (ex: salas ativas, se gerados aqui)
+activeRooms.json 
+
+# Chaves privadas (caso alguma apareça aqui por engano)
+*.pem
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
