@@ -1,4 +1,4 @@
-# HaxBot - Bot do Discord para Criação de Salas HaxBall
+# CreateRoom - Bot do Discord para Criação de Salas HaxBall
 
 Este é um bot para Discord projetado para facilitar a criação de salas de HaxBall sob demanda, comunicando-se com servidores HaxHost dedicados.
 
