@@ -7,13 +7,12 @@ Este é um bot para Discord projetado para facilitar a criação de salas de Hax
 * Criação de salas HaxBall através de comandos no Discord.
 * Comunicação segura (via SSH) com múltiplos servidores HaxHost para instanciar as salas.
 * Retorno do link da sala HaxBall diretamente no canal do Discord onde o comando foi executado.
-* (Possivelmente) Monitoramento ou listagem de salas ativas. *(Descreva melhor se houver)*
-
+* Monitoramento ou listagem de salas ativas. 
 ## Como Usar
 
 Para criar uma sala, utilize o seguinte comando no Discord:
 
-`!criarsala <nome_da_sala_opcional>` *(Substitua pelo seu comando real e explique os parâmetros)*
+`!criarsala <nome_da_sala_opcional>` 
 
 Exemplo:
 `!criarsala Minha Sala Incrível`
