@@ -51,10 +51,16 @@ Este bot requer Node.js e algumas configurações para funcionar corretamente.
 * `index.js`: Ponto de entrada principal do bot e lógica de interação com o Discord.
 * `checkRooms.js`: (Se existir) Script para verificar ou gerenciar salas ativas.
 * `activeRooms.json`: (Se existir) Arquivo para persistir informações sobre salas ativas.
+## Demonstrativo
+
+[![Assista o vídeo](https://img.youtube.com/vi/Z8naikC4ZPI/0.jpg)](https://www.youtube.com/watch?v=Z8naikC4ZPI)
+
+*Clique na imagem acima para ver o tutorial de configuração e uso.*
 
 ## Para Executar o Bot
 
 ```bash
 node index.js
 
-https://www.youtube.com/watch?v=Z8naikC4ZPI
+
+
