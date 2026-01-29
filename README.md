@@ -56,3 +56,5 @@ Este bot requer Node.js e algumas configurações para funcionar corretamente.
 
 ```bash
 node index.js
+
+https://www.youtube.com/watch?v=Z8naikC4ZPI
